@@ -10,7 +10,7 @@ Note that this is not an official project of the [CSUN Assistive Technology Conf
 
 ## Background
 
-As a blind attendee of the 2018 CSUN conference, I found myself regularly in the position of not being able to follow a slide presentation in a session.  If the speaker gave a URL for a digital copy of the presentation, it was also not accessible to me because it was either just written on the final slide or the verbalized URL was too difficult to memorize by listening once.
+As a blind attendee of the 2018 CSUN conference, I regularly experienced an inability to gain value from a slide presentation of keen interest to me.  Even if the speaker gave a URL for a digital copy of the presentation, it was usually not accessible to me, either because it was just displayed on the final slide without verbalization or because the verbalized URL was too difficult to memorize by listening just once.  Often, simultaneous sessions were of interest to me, so I also missed a chance to learn of other slide presentations that would be accessible if I only knew their public URLs.
 
 This project is an attempt to make the conference slides or handouts available in a manner that is easy for speakers to share accessibly.  I investigated various alternatives for a free, reliable, and self-service system for sharing such documents.  In the past, dedicated individuals have collected links to slides after the CSUN conference and updated a web page as often as volunteer time would allow.  This approach tries to be less dependent on a single individual and more direct in the path for speakers to share their documents.
 
@@ -20,7 +20,7 @@ On balance, an approach using some GitHub features seem to work best.  Given the
 
 ## Sharing Steps
 
-A CSUN speaker may share a conference document as a link on the wiki of the "CSUNATC18docs" repository, which is configured to permit contributions by anyone with a GitHub account.  If the speaker does not have use of another website for hosting the document, it may be uploaded in the issue queue of the same repository.  The following steps may be taken:
+A CSUN speaker may share a conference document as a link on the wiki of the *CSUNATC18docs* repository, which is configured to permit contributions by anyone with a GitHub account.  If the speaker does not have use of another website for hosting the document, it may be uploaded in the issue queue of the same repository.  The following steps may be taken:
 
 - Sign into the web site <http://www.github.com>.
 
@@ -46,7 +46,7 @@ A CSUN speaker may share a conference document as a link on the wiki of the "CSU
 
 ## Miscellaneous
 
-If CSUN speakers participate by sharing in this manner, then their digital learning aids will be available to benefit anyone interested.  This will help to spread education about accessibility and further its implementation.
+If CSUN speakers participate by sharing in this manner, then their digital learning aids will be available to benefit more people.  Undoubtedly, there were more interested in their sessions than who could attend, given scheduling or financial limitations, so this makes knowledge available more broadly.  It spreads education about accessibility and furthers its implementation.
 
 This project is an experiment in a self-service system based on professional trust.  Please post document links only if you were a speaker at the 2018 [CSUN Assistive Technology Conference](http://csunconference.org).
 
