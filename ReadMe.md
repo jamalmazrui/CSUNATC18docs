@@ -1,13 +1,12 @@
-﻿---
-title: CSUN 2018 Documents
-author: Jamal Mazrui
-date: 2018-03-24
----
+﻿# CSUN 2018 Documents
+
+by Jamal Mazrui\
+2018-03-24
 
 The content of this repository is mainly contained in its wiki:\
 <http://GitHub.com/JamalMazrui/CSUNATC18docs/wiki>
 
-Note that this is not an official project of the [CSUN Assistive Technology Conference](http://www.csunconference.org).  It does use a variant of the #CSUNATC18 hashtag from Twitter.
+Note that this is not an official project of the [CSUN Assistive Technology Conference](http://www.csunconference.org).  The project name, CSUNATC18docs, includes the [#csunatc18 hashtag](https://twitter.com/hashtag/csunatc18) from Twitter.
 
 ## Background
 
@@ -25,21 +24,21 @@ A CSUN speaker may share a conference document as a link on the wiki of the "CSU
 
 - Choose the "Wiki" link and then the "New Page link.  Alternatively, open the page <http://GitHub.com/JamalMazrui/CSUNATC18docs/wiki/new>.
 
-- In the web form for creating a new page, use the "Title" field for inputting the title of the document to be shared.  Use the multi-line "Page content" field for a description that at least contains a link to the document.  By default, the wiki accepts Markdown syntax as input, so the link may be entered like this:
+- In the web form for creating a new page, use the `Title` field for inputting the title of the document to be shared.  Use the multi-line `Page content` field for a description that at least contains a link to the document.  By default, the wiki accepts Markdown syntax as input, so the link may be entered like this:
 
   `[Link name](Link URL)`
 
   It is recommended that each document include explicit licensing terms within its content, e.g., by referencing [Creative Commons — Attribution-NonCommercial-NoDerivatives 4.0 International](https://creativecommons.org/licenses/by-nc-nd/4.0/).
 
-- If the document is not already hosted elsewhere, it may first be uploaded to the issue queue of the `CSUNATC18docs` repository before creating the wiki page (or it may be edited later to add the document URL).  To create an issue, open the page <http://GitHub.com/JamalMazrui/CSUNATC18docs/issues/new>.
+- If the document is not already hosted elsewhere, it may first be uploaded to the issue queue of the `CSUNATC18docs` repository before creating a wiki page that links to the document.  To create an issue, open the page <http://GitHub.com/JamalMazrui/CSUNATC18docs/issues/new>.
 
-- In the web form for creating a new page, use the "Title" field for inputting the title of the document to be shared.  Use the multi-line "Comment" field for any description.  Use the button for uploading a document as an attachment to the comment.
+- In the web form for creating a new issue, use the `Title` field for inputting the title of the document to be shared.  Use the multi-line `Comment` field for any description.  Invoke the button for uploading a document as an attachment to the comment.
 
-- After creating the issue, move focus to the attachment link and copy its full URL to the clipboard using the context menu (e.g., invoked via right click or Shift+F10).
+- After creating the issue, move focus to the attachment link and copy its full URL to the clipboard using the context menu (e.g., invoked via a right click or Shift+F10).
 
-- On a wiki page created for sharing the document, paste the URL when adding the link.
+- On a wiki page for sharing the document, as described above, paste the URL when adding the link.
 
-- The repository contains a test example of a wiki page that links to an issue attachment.
+- This repository contains a test example of a wiki page that links to an issue attachment.
 
 ## Miscellaneous
 
@@ -47,4 +46,4 @@ If CSUN speakers participate by sharing in this manner, then their digital learn
 
 This project is an experiment in a self-service system based on professional trust.  Please post document links only if you were a speaker at the 2018 [CSUN Assistive Technology Conference](http://csunconference.org).
 
-Feel free to use (responsibly) other collaboration features of the `CSUNATC18docs` repository, e.g., cloning it or adding  related material.
+Feel free to use (responsibly) other collaboration features of the `CSUNATC18docs` repository, e.g., by cloning it or adding  related material.
