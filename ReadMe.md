@@ -1,7 +1,7 @@
 ﻿# CSUN 2018 Documents
 
 by Jamal Mazrui\
-2018-03-25
+2018-03-26
 
 The content of this repository is mainly contained in its wiki:\
 <http://GitHub.com/JamalMazrui/CSUNATC18docs/wiki>
@@ -42,7 +42,7 @@ Steps for the following tasks are detailed below:  signing into the repository, 
 
 - Choose the `Wiki` link and then the `New Page` link.  Alternatively, open the page <http://GitHub.com/JamalMazrui/CSUNATC18docs/wiki/new>.  
 
-- In the web form for creating a new page, use the `Title` field for inputting the title of the document to be shared.  Use the multi-line `Page content` field for a description that at least contains a link to the document.  By default, the wiki accepts Markdown syntax as input, so the link may be entered like this:
+- In the web form for creating a new page, use the `Title` field for inputting the title of the document to be shared.  Use the multi-line `Page content` field for a description that at least contains a link to the document.  By default, the wiki accepts [Markdown syntax as input](https://guides.github.com/features/mastering-markdown/), so the link may be entered like this:
 
   `[Link name](Link URL)`
 
@@ -62,6 +62,6 @@ Steps for the following tasks are detailed below:  signing into the repository, 
 
 If CSUN speakers participate by sharing in this manner, then their digital learning aids will be available to benefit more people.  Undoubtedly, there were more interested in their sessions than who could attend, especially given scheduling or financial constraints, so the ideas are thereby disseminated further.  The approach helps to spread education about accessibility and increase its implementation.
 
-This project is an experiment in a self-service system based on professional trust.  Please post document links only if you were a speaker at the 2018 [CSUN Assistive Technology Conference](http://csunconference.org).
+This project is an experiment in a self-service system based on professional trust.  Please post document links only if you were a speaker at the 2018 [CSUN Assistive Technology Conference](http://csunconference.org) or if you are posting on behalf of a speaker.
 
 Feel free to use (responsibly) other collaboration features of the `CSUNATC18docs` repository, e.g., by adding related content or cloning the wiki.
