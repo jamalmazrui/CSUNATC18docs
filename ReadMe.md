@@ -1,7 +1,7 @@
 ﻿# CSUN 2018 Documents
 
 by Jamal Mazrui\
-2018-03-26
+2018-03-29
 
 The content of this repository is mainly contained in its wiki:\
 <http://GitHub.com/JamalMazrui/CSUNATC18docs/wiki>
@@ -34,7 +34,7 @@ Steps for the following tasks are detailed below:  signing into the repository, 
 
 ### Signing into the Repository
 
-- Sign into the web site <http://www.github.com>.  Go to the repository <http://GitHub.com/JamalMazrui/CSUNATC18docs> (either a mixed-case or lower-case URL will work).
+- Sign into the web site <http://www.github.com> (create an account first if needed).  Go to the repository <http://GitHub.com/JamalMazrui/CSUNATC18docs> (either a mixed-case or lower-case URL will work).
 
 - Browse the test example of a wiki page that links to an issue attachment (explained more below).
 
@@ -64,4 +64,84 @@ If CSUN speakers participate by sharing in this manner, then their digital learn
 
 This project is an experiment in a self-service system based on professional trust.  Please post document links only if you were a speaker at the 2018 [CSUN Assistive Technology Conference](http://csunconference.org) or if you are posting on behalf of a speaker.
 
-Feel free to use (responsibly) other collaboration features of the `CSUNATC18docs` repository, e.g., by adding related content or cloning the wiki.
+Feel free to use (responsibly) other collaboration features of the `CSUNATC18docs` repository, e.g., by adding related content, subscribing to notifications, or cloning the wiki.
+
+## Document Files
+
+For efficient accessibility, the sharable documents are periodically collected and made available as follows:
+
+<A Pilot Study of Computer Auto-Personalization at American Job Centers.pptx>
+
+<A11Y Matters - Effective UX Design Includes Accessibility.pptx>
+
+<Accessibility - No rights without responsibility.pdf>
+
+<Accessibility at eBay - An Enterprise Success Story.pptx>
+
+<Accessibility Crash Course - Web A11y Basics Applied.pptx>
+
+<Accessibility in the Virtual - Augmented Reality Space.pptx>
+
+<Accessibility Testing in Continuous Delivery Environments.pptx>
+
+<Accessible Cooking with the Instant Pot Using Bluetooth and iPhone Apps.pptx>
+
+<ADA and the Internet Legal Update.pptx>
+
+<Assistive Technology for Beginning Braille Readers.pdf>
+
+<Assistive Technology for Braille Readers.pdf>
+
+<Assistive Technology for Students with Low Vision.pdf>
+
+<Be L33T - Accessibility in Game Development.pptx>
+
+<Beyond Standards Taking a Holistic Approach to Accessibility Evaluation.pptx>
+
+<From the Ground Up - Building in Accessibility at the Wireframe Stage.pptx>
+
+<Getting Started with Open Source Accessibility Projects.pptx>
+
+<In God We Trust, All Others Bring Data (Part Deux) - A review of hard data in the digital accessibility industry and how to collect and analyze that data.pptx>
+
+<Innovative Accessibility Design for Hardware with Closed Functionality.pptx>
+
+<ipads-for-students-with-visual-impairments.pdf>
+
+<It's More Than High Contrast - Designing For Users With Low Vision.pptx>
+
+<Machine Learning - Where We’re at, But More Importantly, Where We’re Going.pptx>
+
+<Nemeth Braille Production Using MathType & Scientific Notebook.pdf>
+
+<Our little corner of the world - assistive technology for people with visual impairments.pdf>
+
+<Ready for Take-Off! Designing ACAA Compliant Self-Service Kiosks.pptx>
+
+<Sustainability, Braille, & Assistive Technology.pdf>
+
+<Teacher Competencies with Assistive Technology.pdf>
+
+<The D3 JavaScript Library and Accessible Data Visualization.pptx>
+
+<THE FUTURE BELONGS TO EVERYONE - The Challenges of Producing Math and Science Textbooks in Braille.pptx>
+
+<The Journal on Technology and Persons with Disabilities - Scientific-Research Proceedings.pdf>
+
+<Trickle Down Accessibility.pdf>
+
+<UEB, AT & Me.pdf>
+
+<VI ASSISTIVE TECHNOLOGY - Empower Yourself!.pdf>
+
+<WAI-ARIA 1.1 - An in-depth view into the new & shiny.pdf>
+
+<Web Accessibility Testing 101 - A Checklist for Beginners.pptx>
+
+<When Focus Matters - Designing for Changes in Content versus Context.pptx>
+
+<When Focus Matters - Managing Focus Within Data Tables.pptx>
+
+<Win More Business! Report Product & Service Accessibility using VPAT® 2.1.pptx>
+
+<You Down with RTT - Making Real-Time - Text Accessible to Deaf-Blind Users.pptx>
