@@ -70,78 +70,78 @@ Feel free to use (responsibly) other collaboration features of the `CSUNATC18doc
 
 For efficient accessibility, the shared documents are periodically collected and made available as follows:
 
-- [A Pilot Study of Computer Auto-Personalization at American Job Centers.pptx](/A Pilot Study of Computer Auto-Personalization at American Job Centers.pptx)
+- [A Pilot Study of Computer Auto-Personalization at American Job Centers.pptx](https://github.com/jamalmazrui/CSUNATC18docs/blob/master/A Pilot Study of Computer Auto-Personalization at American Job Centers.pptx)
 
-- [A11Y Matters - Effective UX Design Includes Accessibility.pptx](/A11Y Matters - Effective UX Design Includes Accessibility.pptx)
+- [A11Y Matters - Effective UX Design Includes Accessibility.pptx](https://github.com/jamalmazrui/CSUNATC18docs/blob/master/A11Y Matters - Effective UX Design Includes Accessibility.pptx)
 
-- [Accessibility - No rights without responsibility.pdf](/Accessibility - No rights without responsibility.pdf)
+- [Accessibility - No rights without responsibility.pdf](https://github.com/jamalmazrui/CSUNATC18docs/blob/master/Accessibility - No rights without responsibility.pdf)
 
-- [Accessibility at eBay - An Enterprise Success Story.pptx](/Accessibility at eBay - An Enterprise Success Story.pptx)
+- [Accessibility at eBay - An Enterprise Success Story.pptx](https://github.com/jamalmazrui/CSUNATC18docs/blob/master/Accessibility at eBay - An Enterprise Success Story.pptx)
 
-- [Accessibility Crash Course - Web A11y Basics Applied.pptx](/Accessibility Crash Course - Web A11y Basics Applied.pptx)
+- [Accessibility Crash Course - Web A11y Basics Applied.pptx](https://github.com/jamalmazrui/CSUNATC18docs/blob/master/Accessibility Crash Course - Web A11y Basics Applied.pptx)
 
-- [Accessibility in the Virtual - Augmented Reality Space.pptx](/Accessibility in the Virtual - Augmented Reality Space.pptx)
+- [Accessibility in the Virtual - Augmented Reality Space.pptx](https://github.com/jamalmazrui/CSUNATC18docs/blob/master/Accessibility in the Virtual - Augmented Reality Space.pptx)
 
-- [Accessibility Testing in Continuous Delivery Environments.pptx](/Accessibility Testing in Continuous Delivery Environments.pptx)
+- [Accessibility Testing in Continuous Delivery Environments.pptx](https://github.com/jamalmazrui/CSUNATC18docs/blob/master/Accessibility Testing in Continuous Delivery Environments.pptx)
 
-- [Accessible Cooking with the Instant Pot Using Bluetooth and iPhone Apps.pptx](/Accessible Cooking with the Instant Pot Using Bluetooth and iPhone Apps.pptx)
+- [Accessible Cooking with the Instant Pot Using Bluetooth and iPhone Apps.pptx](https://github.com/jamalmazrui/CSUNATC18docs/blob/master/Accessible Cooking with the Instant Pot Using Bluetooth and iPhone Apps.pptx)
 
-- [ADA and the Internet Legal Update.pptx](/ADA and the Internet Legal Update.pptx)
+- [ADA and the Internet Legal Update.pptx](https://github.com/jamalmazrui/CSUNATC18docs/blob/master/ADA and the Internet Legal Update.pptx)
 
-- [Assistive Technology for Beginning Braille Readers.pdf](/Assistive Technology for Beginning Braille Readers.pdf)
+- [Assistive Technology for Beginning Braille Readers.pdf](https://github.com/jamalmazrui/CSUNATC18docs/blob/master/Assistive Technology for Beginning Braille Readers.pdf)
 
-- [Assistive Technology for Braille Readers.pdf](/Assistive Technology for Braille Readers.pdf)
+- [Assistive Technology for Braille Readers.pdf](https://github.com/jamalmazrui/CSUNATC18docs/blob/master/Assistive Technology for Braille Readers.pdf)
 
-- [Assistive Technology for Students with Low Vision.pdf](/Assistive Technology for Students with Low Vision.pdf)
+- [Assistive Technology for Students with Low Vision.pdf](https://github.com/jamalmazrui/CSUNATC18docs/blob/master/Assistive Technology for Students with Low Vision.pdf)
 
-- [Be L33T - Accessibility in Game Development.pptx](/Be L33T - Accessibility in Game Development.pptx)
+- [Be L33T - Accessibility in Game Development.pptx](https://github.com/jamalmazrui/CSUNATC18docs/blob/master/Be L33T - Accessibility in Game Development.pptx)
 
-- [Beyond Standards Taking a Holistic Approach to Accessibility Evaluation.pptx](/Beyond Standards Taking a Holistic Approach to Accessibility Evaluation.pptx)
+- [Beyond Standards Taking a Holistic Approach to Accessibility Evaluation.pptx](https://github.com/jamalmazrui/CSUNATC18docs/blob/master/Beyond Standards Taking a Holistic Approach to Accessibility Evaluation.pptx)
 
-- [From the Ground Up - Building in Accessibility at the Wireframe Stage.pptx](/From the Ground Up - Building in Accessibility at the Wireframe Stage.pptx)
+- [From the Ground Up - Building in Accessibility at the Wireframe Stage.pptx](https://github.com/jamalmazrui/CSUNATC18docs/blob/master/From the Ground Up - Building in Accessibility at the Wireframe Stage.pptx)
 
-- [Getting Started with Open Source Accessibility Projects.pptx](/Getting Started with Open Source Accessibility Projects.pptx)
+- [Getting Started with Open Source Accessibility Projects.pptx](https://github.com/jamalmazrui/CSUNATC18docs/blob/master/Getting Started with Open Source Accessibility Projects.pptx)
 
-- [In God We Trust, All Others Bring Data (Part Deux) - A review of hard data in the digital accessibility industry and how to collect and analyze that data.pptx](/In God We Trust, All Others Bring Data (Part Deux) - A review of hard data in the digital accessibility industry and how to collect and analyze that data.pptx)
+- [In God We Trust, All Others Bring Data (Part Deux) - A review of hard data in the digital accessibility industry and how to collect and analyze that data.pptx](https://github.com/jamalmazrui/CSUNATC18docs/blob/master/In God We Trust, All Others Bring Data (Part Deux) - A review of hard data in the digital accessibility industry and how to collect and analyze that data.pptx)
 
-- [Innovative Accessibility Design for Hardware with Closed Functionality.pptx](/Innovative Accessibility Design for Hardware with Closed Functionality.pptx)
+- [Innovative Accessibility Design for Hardware with Closed Functionality.pptx](https://github.com/jamalmazrui/CSUNATC18docs/blob/master/Innovative Accessibility Design for Hardware with Closed Functionality.pptx)
 
-- [ipads-for-students-with-visual-impairments.pdf](/ipads-for-students-with-visual-impairments.pdf)
+- [ipads-for-students-with-visual-impairments.pdf](https://github.com/jamalmazrui/CSUNATC18docs/blob/master/ipads-for-students-with-visual-impairments.pdf)
 
-- [It's More Than High Contrast - Designing For Users With Low Vision.pptx](/It's More Than High Contrast - Designing For Users With Low Vision.pptx)
+- [It's More Than High Contrast - Designing For Users With Low Vision.pptx](https://github.com/jamalmazrui/CSUNATC18docs/blob/master/It's More Than High Contrast - Designing For Users With Low Vision.pptx)
 
-- [Machine Learning - Where We’re at, But More Importantly, Where We’re Going.pptx](/Machine Learning - Where We’re at, But More Importantly, Where We’re Going.pptx)
+- [Machine Learning - Where We’re at, But More Importantly, Where We’re Going.pptx](https://github.com/jamalmazrui/CSUNATC18docs/blob/master/Machine Learning - Where We’re at, But More Importantly, Where We’re Going.pptx)
 
-- [Nemeth Braille Production Using MathType & Scientific Notebook.pdf](/Nemeth Braille Production Using MathType & Scientific Notebook.pdf)
+- [Nemeth Braille Production Using MathType & Scientific Notebook.pdf](https://github.com/jamalmazrui/CSUNATC18docs/blob/master/Nemeth Braille Production Using MathType & Scientific Notebook.pdf)
 
-- [Our little corner of the world - assistive technology for people with visual impairments.pdf](/Our little corner of the world - assistive technology for people with visual impairments.pdf)
+- [Our little corner of the world - assistive technology for people with visual impairments.pdf](https://github.com/jamalmazrui/CSUNATC18docs/blob/master/Our little corner of the world - assistive technology for people with visual impairments.pdf)
 
-- [Ready for Take-Off! Designing ACAA Compliant Self-Service Kiosks.pptx](/Ready for Take-Off! Designing ACAA Compliant Self-Service Kiosks.pptx)
+- [Ready for Take-Off! Designing ACAA Compliant Self-Service Kiosks.pptx](https://github.com/jamalmazrui/CSUNATC18docs/blob/master/Ready for Take-Off! Designing ACAA Compliant Self-Service Kiosks.pptx)
 
-- [Sustainability, Braille, & Assistive Technology.pdf](/Sustainability, Braille, & Assistive Technology.pdf)
+- [Sustainability, Braille, & Assistive Technology.pdf](https://github.com/jamalmazrui/CSUNATC18docs/blob/master/Sustainability, Braille, & Assistive Technology.pdf)
 
-- [Teacher Competencies with Assistive Technology.pdf](/Teacher Competencies with Assistive Technology.pdf)
+- [Teacher Competencies with Assistive Technology.pdf](https://github.com/jamalmazrui/CSUNATC18docs/blob/master/Teacher Competencies with Assistive Technology.pdf)
 
-- [The D3 JavaScript Library and Accessible Data Visualization.pptx](/The D3 JavaScript Library and Accessible Data Visualization.pptx)
+- [The D3 JavaScript Library and Accessible Data Visualization.pptx](https://github.com/jamalmazrui/CSUNATC18docs/blob/master/The D3 JavaScript Library and Accessible Data Visualization.pptx)
 
-- [THE FUTURE BELONGS TO EVERYONE - The Challenges of Producing Math and Science Textbooks in Braille.pptx](/THE FUTURE BELONGS TO EVERYONE - The Challenges of Producing Math and Science Textbooks in Braille.pptx)
+- [THE FUTURE BELONGS TO EVERYONE - The Challenges of Producing Math and Science Textbooks in Braille.pptx](https://github.com/jamalmazrui/CSUNATC18docs/blob/master/THE FUTURE BELONGS TO EVERYONE - The Challenges of Producing Math and Science Textbooks in Braille.pptx)
 
-- [The Journal on Technology and Persons with Disabilities - Scientific-Research Proceedings.pdf](/The Journal on Technology and Persons with Disabilities - Scientific-Research Proceedings.pdf)
+- [The Journal on Technology and Persons with Disabilities - Scientific-Research Proceedings.pdf](https://github.com/jamalmazrui/CSUNATC18docs/blob/master/The Journal on Technology and Persons with Disabilities - Scientific-Research Proceedings.pdf)
 
-- [Trickle Down Accessibility.pdf](/Trickle Down Accessibility.pdf)
+- [Trickle Down Accessibility.pdf](https://github.com/jamalmazrui/CSUNATC18docs/blob/master/Trickle Down Accessibility.pdf)
 
-- [UEB, AT & Me.pdf](/UEB, AT & Me.pdf)
+- [UEB, AT & Me.pdf](https://github.com/jamalmazrui/CSUNATC18docs/blob/master/UEB, AT & Me.pdf)
 
-- [VI ASSISTIVE TECHNOLOGY - Empower Yourself!.pdf](/VI ASSISTIVE TECHNOLOGY - Empower Yourself!.pdf)
+- [VI ASSISTIVE TECHNOLOGY - Empower Yourself!.pdf](https://github.com/jamalmazrui/CSUNATC18docs/blob/master/VI ASSISTIVE TECHNOLOGY - Empower Yourself!.pdf)
 
-- [WAI-ARIA 1.1 - An in-depth view into the new & shiny.pdf](/WAI-ARIA 1.1 - An in-depth view into the new & shiny.pdf)
+- [WAI-ARIA 1.1 - An in-depth view into the new & shiny.pdf](https://github.com/jamalmazrui/CSUNATC18docs/blob/master/WAI-ARIA 1.1 - An in-depth view into the new & shiny.pdf)
 
-- [Web Accessibility Testing 101 - A Checklist for Beginners.pptx](/Web Accessibility Testing 101 - A Checklist for Beginners.pptx)
+- [Web Accessibility Testing 101 - A Checklist for Beginners.pptx](https://github.com/jamalmazrui/CSUNATC18docs/blob/master/Web Accessibility Testing 101 - A Checklist for Beginners.pptx)
 
-- [When Focus Matters - Designing for Changes in Content versus Context.pptx](/When Focus Matters - Designing for Changes in Content versus Context.pptx)
+- [When Focus Matters - Designing for Changes in Content versus Context.pptx](https://github.com/jamalmazrui/CSUNATC18docs/blob/master/When Focus Matters - Designing for Changes in Content versus Context.pptx)
 
-- [When Focus Matters - Managing Focus Within Data Tables.pptx](/When Focus Matters - Managing Focus Within Data Tables.pptx)
+- [When Focus Matters - Managing Focus Within Data Tables.pptx](https://github.com/jamalmazrui/CSUNATC18docs/blob/master/When Focus Matters - Managing Focus Within Data Tables.pptx)
 
-- [Win More Business! Report Product & Service Accessibility using VPAT® 2.1.pptx](/Win More Business! Report Product & Service Accessibility using VPAT® 2.1.pptx)
+- [Win More Business! Report Product & Service Accessibility using VPAT® 2.1.pptx](https://github.com/jamalmazrui/CSUNATC18docs/blob/master/Win More Business! Report Product & Service Accessibility using VPAT® 2.1.pptx)
 
-- [You Down with RTT - Making Real-Time - Text Accessible to Deaf-Blind Users.pptx](/You Down with RTT - Making Real-Time - Text Accessible to Deaf-Blind Users.pptx)
+- [You Down with RTT - Making Real-Time - Text Accessible to Deaf-Blind Users.pptx](https://github.com/jamalmazrui/CSUNATC18docs/blob/master/You Down with RTT - Making Real-Time - Text Accessible to Deaf-Blind Users.pptx)
