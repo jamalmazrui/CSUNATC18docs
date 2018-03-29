@@ -68,80 +68,81 @@ Feel free to use (responsibly) other collaboration features of the `CSUNATC18doc
 
 ## Document Files
 
-For efficient accessibility, the sharable documents are periodically collected and made available as follows:
+For efficient accessibility, the shared documents are periodically collected and made available as follows:
 
-<A Pilot Study of Computer Auto-Personalization at American Job Centers.pptx>
 
-<A11Y Matters - Effective UX Design Includes Accessibility.pptx>
+[A Pilot Study of Computer Auto-Personalization at American Job Centers.pptx](A Pilot Study of Computer Auto-Personalization at American Job Centers.pptx)
 
-<Accessibility - No rights without responsibility.pdf>
+[A11Y Matters - Effective UX Design Includes Accessibility.pptx](A11Y Matters - Effective UX Design Includes Accessibility.pptx)
 
-<Accessibility at eBay - An Enterprise Success Story.pptx>
+[Accessibility - No rights without responsibility.pdf](Accessibility - No rights without responsibility.pdf)
 
-<Accessibility Crash Course - Web A11y Basics Applied.pptx>
+[Accessibility at eBay - An Enterprise Success Story.pptx](Accessibility at eBay - An Enterprise Success Story.pptx)
 
-<Accessibility in the Virtual - Augmented Reality Space.pptx>
+[Accessibility Crash Course - Web A11y Basics Applied.pptx](Accessibility Crash Course - Web A11y Basics Applied.pptx)
 
-<Accessibility Testing in Continuous Delivery Environments.pptx>
+[Accessibility in the Virtual - Augmented Reality Space.pptx](Accessibility in the Virtual - Augmented Reality Space.pptx)
 
-<Accessible Cooking with the Instant Pot Using Bluetooth and iPhone Apps.pptx>
+[Accessibility Testing in Continuous Delivery Environments.pptx](Accessibility Testing in Continuous Delivery Environments.pptx)
 
-<ADA and the Internet Legal Update.pptx>
+[Accessible Cooking with the Instant Pot Using Bluetooth and iPhone Apps.pptx](Accessible Cooking with the Instant Pot Using Bluetooth and iPhone Apps.pptx)
 
-<Assistive Technology for Beginning Braille Readers.pdf>
+[ADA and the Internet Legal Update.pptx](ADA and the Internet Legal Update.pptx)
 
-<Assistive Technology for Braille Readers.pdf>
+[Assistive Technology for Beginning Braille Readers.pdf](Assistive Technology for Beginning Braille Readers.pdf)
 
-<Assistive Technology for Students with Low Vision.pdf>
+[Assistive Technology for Braille Readers.pdf](Assistive Technology for Braille Readers.pdf)
 
-<Be L33T - Accessibility in Game Development.pptx>
+[Assistive Technology for Students with Low Vision.pdf](Assistive Technology for Students with Low Vision.pdf)
 
-<Beyond Standards Taking a Holistic Approach to Accessibility Evaluation.pptx>
+[Be L33T - Accessibility in Game Development.pptx](Be L33T - Accessibility in Game Development.pptx)
 
-<From the Ground Up - Building in Accessibility at the Wireframe Stage.pptx>
+[Beyond Standards Taking a Holistic Approach to Accessibility Evaluation.pptx](Beyond Standards Taking a Holistic Approach to Accessibility Evaluation.pptx)
 
-<Getting Started with Open Source Accessibility Projects.pptx>
+[From the Ground Up - Building in Accessibility at the Wireframe Stage.pptx](From the Ground Up - Building in Accessibility at the Wireframe Stage.pptx)
 
-<In God We Trust, All Others Bring Data (Part Deux) - A review of hard data in the digital accessibility industry and how to collect and analyze that data.pptx>
+[Getting Started with Open Source Accessibility Projects.pptx](Getting Started with Open Source Accessibility Projects.pptx)
 
-<Innovative Accessibility Design for Hardware with Closed Functionality.pptx>
+[In God We Trust, All Others Bring Data (Part Deux) - A review of hard data in the digital accessibility industry and how to collect and analyze that data.pptx](In God We Trust, All Others Bring Data (Part Deux) - A review of hard data in the digital accessibility industry and how to collect and analyze that data.pptx)
 
-<ipads-for-students-with-visual-impairments.pdf>
+[Innovative Accessibility Design for Hardware with Closed Functionality.pptx](Innovative Accessibility Design for Hardware with Closed Functionality.pptx)
 
-<It's More Than High Contrast - Designing For Users With Low Vision.pptx>
+[ipads-for-students-with-visual-impairments.pdf](ipads-for-students-with-visual-impairments.pdf)
 
-<Machine Learning - Where We’re at, But More Importantly, Where We’re Going.pptx>
+[It's More Than High Contrast - Designing For Users With Low Vision.pptx](It's More Than High Contrast - Designing For Users With Low Vision.pptx)
 
-<Nemeth Braille Production Using MathType & Scientific Notebook.pdf>
+[Machine Learning - Where We’re at, But More Importantly, Where We’re Going.pptx](Machine Learning - Where We’re at, But More Importantly, Where We’re Going.pptx)
 
-<Our little corner of the world - assistive technology for people with visual impairments.pdf>
+[Nemeth Braille Production Using MathType & Scientific Notebook.pdf](Nemeth Braille Production Using MathType & Scientific Notebook.pdf)
 
-<Ready for Take-Off! Designing ACAA Compliant Self-Service Kiosks.pptx>
+[Our little corner of the world - assistive technology for people with visual impairments.pdf](Our little corner of the world - assistive technology for people with visual impairments.pdf)
 
-<Sustainability, Braille, & Assistive Technology.pdf>
+[Ready for Take-Off! Designing ACAA Compliant Self-Service Kiosks.pptx](Ready for Take-Off! Designing ACAA Compliant Self-Service Kiosks.pptx)
 
-<Teacher Competencies with Assistive Technology.pdf>
+[Sustainability, Braille, & Assistive Technology.pdf](Sustainability, Braille, & Assistive Technology.pdf)
 
-<The D3 JavaScript Library and Accessible Data Visualization.pptx>
+[Teacher Competencies with Assistive Technology.pdf](Teacher Competencies with Assistive Technology.pdf)
 
-<THE FUTURE BELONGS TO EVERYONE - The Challenges of Producing Math and Science Textbooks in Braille.pptx>
+[The D3 JavaScript Library and Accessible Data Visualization.pptx](The D3 JavaScript Library and Accessible Data Visualization.pptx)
 
-<The Journal on Technology and Persons with Disabilities - Scientific-Research Proceedings.pdf>
+[THE FUTURE BELONGS TO EVERYONE - The Challenges of Producing Math and Science Textbooks in Braille.pptx](THE FUTURE BELONGS TO EVERYONE - The Challenges of Producing Math and Science Textbooks in Braille.pptx)
 
-<Trickle Down Accessibility.pdf>
+[The Journal on Technology and Persons with Disabilities - Scientific-Research Proceedings.pdf](The Journal on Technology and Persons with Disabilities - Scientific-Research Proceedings.pdf)
 
-<UEB, AT & Me.pdf>
+[Trickle Down Accessibility.pdf](Trickle Down Accessibility.pdf)
 
-<VI ASSISTIVE TECHNOLOGY - Empower Yourself!.pdf>
+[UEB, AT & Me.pdf](UEB, AT & Me.pdf)
 
-<WAI-ARIA 1.1 - An in-depth view into the new & shiny.pdf>
+[VI ASSISTIVE TECHNOLOGY - Empower Yourself!.pdf](VI ASSISTIVE TECHNOLOGY - Empower Yourself!.pdf)
 
-<Web Accessibility Testing 101 - A Checklist for Beginners.pptx>
+[WAI-ARIA 1.1 - An in-depth view into the new & shiny.pdf](WAI-ARIA 1.1 - An in-depth view into the new & shiny.pdf)
 
-<When Focus Matters - Designing for Changes in Content versus Context.pptx>
+[Web Accessibility Testing 101 - A Checklist for Beginners.pptx](Web Accessibility Testing 101 - A Checklist for Beginners.pptx)
 
-<When Focus Matters - Managing Focus Within Data Tables.pptx>
+[When Focus Matters - Designing for Changes in Content versus Context.pptx](When Focus Matters - Designing for Changes in Content versus Context.pptx)
 
-<Win More Business! Report Product & Service Accessibility using VPAT® 2.1.pptx>
+[When Focus Matters - Managing Focus Within Data Tables.pptx](When Focus Matters - Managing Focus Within Data Tables.pptx)
 
-<You Down with RTT - Making Real-Time - Text Accessible to Deaf-Blind Users.pptx>
+[Win More Business! Report Product & Service Accessibility using VPAT® 2.1.pptx](Win More Business! Report Product & Service Accessibility using VPAT® 2.1.pptx)
+
+[You Down with RTT - Making Real-Time - Text Accessible to Deaf-Blind Users.pptx](You Down with RTT - Making Real-Time - Text Accessible to Deaf-Blind Users.pptx)
