@@ -68,6 +68,5 @@ Feel free to use (responsibly) other collaboration features of the `CSUNATC18doc
 
 ## Document Files
 
-For efficient accessibility, the shared documents are periodically collected and made available in the following zip archive:
-
+Shared documents are periodically gathered and posted as an accessible collection of slides:\
 <https://GitHub.com/JamalMazrui/CSUNATC18docs/archive/master.zip>
